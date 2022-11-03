@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ksenia</h1>
 <h3 align="center">A passionate React frontend developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [Mail clone app](https://github.com/ksalpern/mail-clone-app)
+- 🔭 I’m currently working on [Airbnb clone app](https://github.com/ksalpern/airbnb-clone-app/)
 
-- 🌱 I’m currently learning **React, Redux, GraphQL, JS**
+- 🌱 I’m currently learning **React, Redux, JS, Next.js, TS**
 
 - 📫 How to reach me **ksenia.pidopryhora@gmail.com**
 
