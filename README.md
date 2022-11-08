@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ksenia</h1>
+<h1 align="center">Hi 👋, I'm Kseniia</h1>
 <h3 align="center">A passionate React frontend developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [Airbnb clone app](https://github.com/ksalpern/airbnb-clone-app/)
+- 🔭 I’m currently working on [Netflix clone app](https://github.com/ksalpern/netflix-clone-app)
 
 - 🌱 I’m currently learning **React, Redux, JS, Next.js, TS**
 
