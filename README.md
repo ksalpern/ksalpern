@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kseniia</h1>
 <h3 align="center">A passionate React frontend developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [Netflix clone app](https://github.com/ksalpern/netflix-clone-app)
+- 🔭 I’m currently working on [LinkedIn clone app](https://github.com/ksalpern/linkedin-clone-app)
 
-- 🌱 I’m currently learning **React, Redux, JS, Next.js, TS**
+- 🌱 I’m currently learning **React, Redux, JS, Next.js, TypeScript, Sanity, GraphQL, Apollo**
 
 - 📫 How to reach me **ksenia.pidopryhora@gmail.com**
 
