@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kseniia</h1>
 <h3 align="center">A passionate React frontend developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [LinkedIn clone app](https://github.com/ksalpern/linkedin-clone-app)
+- 🔭 I’m currently working on [Camera's shop](https://github.com/ksalpern/ecommerce-stripe)
 
 - 🌱 I’m currently learning **React, Redux, JS, Next.js, TypeScript, Sanity, GraphQL, Apollo**
 
