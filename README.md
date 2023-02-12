@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kseniia</h1>
 <h3 align="center">A passionate React frontend developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [my first Angular app!](https://github.com/ksalpern/angular-first-app)
+- 🔭 I’m currently working on [test task!](https://twnty-testcase.netlify.app/)
 
-- 🌱 I’m currently learning **React, Redux, JS, Next.js, TypeScript, Sanity, GraphQL, Apollo**
+- 🌱 I’m currently learning **React, Redux, JS, Next.js, TypeScript, Sanity CMS, GraphQL, Apollo, Node.js, Framer Motion**
 
 - 📫 How to reach me **ksenia.pidopryhora@gmail.com**
 
