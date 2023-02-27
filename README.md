@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://codepen.io/ksalpern" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ksalpern" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kseniia-pidopryhora-44a579236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kseniia-p-44a579236/" height="30" width="40" /></a>
-<a href="https://instagram.com/ksalpern" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ksalpern" height="30" width="40" /></a>
+<a href="https://instagram.com/ksalpern?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ksalpern" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
