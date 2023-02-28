@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ksenia.pidopryhora@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QOkDMZEvsek8-B4wxYniwIiJq4opPMyT/view?usp=sharing](https://drive.google.com/file/d/1QOkDMZEvsek8-B4wxYniwIiJq4opPMyT/view?usp=sharing)
+- 📄 Know about my experiences from [cv](https://drive.google.com/file/d/1P0r9uPTW46TnUdT6bJUAUCqKusZvJFP3/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
