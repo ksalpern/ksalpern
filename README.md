@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kseniia</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [WebbyLab test task](https://github.com/ksalpern/webbylab-movie-react)
+- 🔭 I’m currently working on [UA DNA volunteer project](https://github.com/SerhiiDenysiuk23/DigitalDreamVolonteerProject)
 
 - 🌱 I’m currently learning **React and Next.js, Redux Toolkit, JS and TS, Sanity CMS, GraphQL, Apollo Client, Node.js, Framer Motion, gsap, Python, Data Analytics**
 
