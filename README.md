@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [UA DNA volunteer project](https://github.com/SerhiiDenysiuk23/DigitalDreamVolonteerProject)
 
-- 🌱 I’m currently learning **React and Next.js, Redux Toolkit, JS and TS, Sanity CMS, GraphQL, Apollo Client, Node.js, Framer Motion, gsap, Python, Data Analytics**
+- 🌱 I’m currently learning **Next.js, TS, Sanity CMS, GraphQL, Apollo Client, Node.js, Framer Motion, gsap, Python, Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://kseniia-pidopryhora.netlify.app/](https://kseniia-pidopryhora.netlify.app/)
 
-- 💬 Ask me about **react, js, scss, redux**
+- 💬 Ask me about **react, js, scss, redux toolkit**
 
 - 📫 How to reach me **ksenia.pidopryhora@gmail.com**
 
