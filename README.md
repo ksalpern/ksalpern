@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, TS, Sanity CMS, GraphQL, Apollo Client, Node.js, Framer Motion, gsap, Python, Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://kseniia-pidopryhora.netlify.app/](https://kseniia-pidopryhora.netlify.app/)
+- 👨‍💻 All of my projects are available at [ksalpern-portfolio.vercel.app/](ksalpern-portfolio.vercel.app/)
 
 - 💬 Ask me about **react, js, scss, redux toolkit**
 
