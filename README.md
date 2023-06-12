@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [UA DNA volunteer project](https://github.com/SerhiiDenysiuk23/DigitalDreamVolonteerProject)
 
-- 🌱 I’m currently learning **Next.js, TS, Sanity CMS, GraphQL, Apollo Client, Node.js, Framer Motion, gsap, Python, Data Analytics**
+- 🌱 I’m currently learning **Next.js, GraphQL, Apollo Client, Node.js, Framer Motion, gsap, Blender, svg, animations**
 
 - 👨‍💻 All of my projects are available at [ksalpern-portfolio.vercel.app/](ksalpern-portfolio.vercel.app/)
 
