@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, GraphQL, Apollo Client, Node.js, Framer Motion, gsap, Blender, svg, animations**
 
-- 👨‍💻 All of my projects are available at [ksalpern-portfolio.vercel.app/](ksalpern-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [ksalpern-portfolio.vercel.app/](https://ksalpern-portfolio.vercel.app/)
 
 - 💬 Ask me about **react, js, scss, redux toolkit**
 
