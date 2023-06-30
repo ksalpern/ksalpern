@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on [UA DNA volunteer project](https://github.com/SerhiiDenysiuk23/DigitalDreamVolonteerProject)
 
-- 🌱 I’m currently learning **Next.js, GraphQL, Apollo Client, Node.js, Framer Motion, gsap, Blender, svg, animations**
+- 🌱 I’m currently learning **Node.js, Nest.js, GraphQL, TypeORM, Prisma, PostgreSQL, MongoDB, svg, animations**
 
 - 👨‍💻 All of my projects are available at [ksalpern-portfolio.vercel.app/](https://ksalpern-portfolio.vercel.app/)
 
 - 💬 Ask me about **react, js, scss, redux toolkit**
-
-- 📫 How to reach me **ksenia.pidopryhora@gmail.com**
 
 - 📄 Know about my experiences from [cv](https://drive.google.com/file/d/1zWh-bPk4VLpAOmUhglfr4DA7VzyciqmL/view?usp=sharing)
 
