@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kseniia</h1>
-<h3 align="center">A passionate Fullstack JS developer from Ukraine</h3>
+<h3 align="center">A passionate Frontend dev from Ukraine</h3>
 
 - 🔭 I’m currently working on [UA DNA volunteer project](https://github.com/SerhiiDenysiuk23/DigitalDreamVolonteerProject)
 
