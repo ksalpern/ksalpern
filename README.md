@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [UA DNA volunteer project](https://github.com/SerhiiDenysiuk23/DigitalDreamVolonteerProject)
 
-- 🌱 I’m currently learning **Fastify, tRPC, DrizzleORM, zod, SuperTokens, PlanetScale, svg, animations**
+- 🌱 I’m currently learning **Fastify, GraphQL, zod, SuperTokens, pothos, svg, animations**
 
 - 👨‍💻 All of my projects are available at [ksalpern-portfolio.vercel.app/](https://ksalpern-portfolio.vercel.app/)
 
