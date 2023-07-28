@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kseniia</h1>
 <h3 align="center">A passionate Frontend dev from Ukraine</h3>
 
-- 🔭 I’m currently working on [UA DNA volunteer project](https://github.com/SerhiiDenysiuk23/DigitalDreamVolonteerProject)
-
 - 🌱 I’m currently learning **Fastify, GraphQL, zod, SuperTokens, pothos, svg, animations**
 
 - 👨‍💻 All of my projects are available at [ksalpern-portfolio.vercel.app/](https://ksalpern-portfolio.vercel.app/)
