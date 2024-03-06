@@ -1,17 +1,61 @@
-<h1 align="center">Hi 👋, I'm Kseniia</h1>
-<h3 align="center">A passionate Frontend dev from Ukraine</h3>
+<h1 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70px" alt="typing cat"> Hey, I'm Xenia 👋 </h1>
 
-- 🌱 I’m currently learning **Fastify, GraphQL, zod, SuperTokens, pothos, svg, animations**
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a laptop" min-width="300px" max-width="300px" width="300px" align="right">
 
-- 👨‍💻 All of my projects are available at [ksalpern-portfolio.vercel.app/](https://ksalpern-portfolio.vercel.app/)
-
-- 💬 Ask me about **react, js, scss, redux toolkit**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/ksalpern" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ksalpern" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kseniia-pidopryhora-44a579236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kseniia-p-44a579236/" height="30" width="40" /></a>
+ I'm a Frontend Developer from Ukraine 🇺🇦  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="left"> 
+ With the wisdom of&nbsp; ${\color{#70a5fd}\textsf{Yoda}}$ and the determination of a&nbsp; ${\color{#70a5fd}\textsf{Jedi}}$,<br>
+  I tackle the challenges of the frontend universe
+</p>
+
+<p align="left">
+ <img src="https://github.com/ksalpern/ideas/blob/0064c826f42b89736ed5cf9c1ca3539882d24d8d/assets/arrow3.webp" alt="arrow down" width="40"/>&nbsp; ${\color{#70a5fd}\textsf{Let's connect:}}$
+</p>
+
+<p align="left">
+  <a href="mailto:ksenia.pidopryhora@gmail.com" title="Gmail">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112705866/280768534-7f0d7491-3085-44a6-80b0-2939a24f9f21.svg" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/kseniia-pidopryhora-44a579236/" title="LinkedIn">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112705866/280771412-ca23c019-65c5-4133-9759-280da6af9ba2.svg" alt="LinkedIn"/></a>
+  <a href="https://t.me/ksalpern" title="Telegram">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112705866/280768542-d8167889-3a41-4507-86d0-6db8342c7ce7.svg" alt="Telegram"/></a>
+</p>
+
+<p align="center">
+&nbsp; ${\color{#70a5fd}\textsf{Here're some thing I've been working with lately:}}$
+</p>
+
+<img src="./assets/yoda.webp" alt="baby yoda" align="left" style='width:32%;height:fit-content;'>
+
+<p align="right">
+    <img src="./assets/tools/react.svg" alt="react" width="45" height="45"/>&nbsp;
+    <img src="./assets/tools/next.svg" alt='next' width="45" height="45" />&nbsp;
+    <img src="./assets/tools/redux.svg" alt="redux" width="45" height="45" />&nbsp;
+    <img src="./assets/tools/tailwind.png" alt="tailwind" width="45" height="45" />&nbsp;
+    <img src="./assets/tools/sass.svg" alt="sass" width="45" height="45" />&nbsp;
+    <img src="./assets/tools/storybook.png" alt="storybook" width="45" height="45" />&nbsp;
+    <img src="./assets/tools/chromatic.png" alt="chromatic" width="45" height="45" />&nbsp;
+    <img src="./assets/tools/playwright.svg" alt="playwright" width="45" height="45" />&nbsp;
+    </p>
+<p align="right">
+  <img src="./assets/tools/firebase.svg" alt="firebase" width="45" height="45" />&nbsp;
+  <img src="./assets/tools/node.svg" alt="nodejs" width="45" height="45" />&nbsp;
+  <img src="./assets/tools/express.svg" alt="express" width="45" height="45" />&nbsp;
+  <img src="./assets/tools/postgresql.svg" alt="postgresql" width="45" height="45" />&nbsp;
+  <img src="./assets/tools/graphql.png" alt='graphql' width="45" height="45" />&nbsp;
+  <img src="./assets/tools/azure.svg" alt="azure" width="45" height="45" />&nbsp;
+  <img src="./assets/tools/vite.png" alt="vite" width="45" height="45" />&nbsp;
+  <img src="./assets/tools/docker.png" alt="docker" width="45" height="45" />&nbsp;
+   </p>
+
+### ⚙️ GitHub Analytics
+
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ksalpern&hide_border=true&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Xenia GitHub Readme Streak Stats" />
+
+<p align="center">
+<img src="https://github.com/ksalpern/ideas/blob/21d0ebf4bcf0ea0712a510dca3d9e009a74c44e5/assets/sparkles.gif" width="30px" alt="sparkles">&nbsp; ${\color{LightBlue}\textsf{May the Force be with you}}$<img src="https://github.com/ksalpern/ideas/blob/21d0ebf4bcf0ea0712a510dca3d9e009a74c44e5/assets/sparkles.gif" width="30px" alt="sparkles"> 
+</p>
+<!--
