@@ -31,24 +31,24 @@
 <img src="./assets/yoda.webp" alt="baby yoda" align="left" style='width:32%;height:fit-content;'>
 
 <p align="right">
-    <img src="./assets/tools/react.svg" alt="react" width="35" height="35"/>&nbsp;
-    <img src="./assets/tools/next.svg" alt='next' width="35" height="35" />&nbsp;
-    <img src="./assets/tools/redux.svg" alt="redux" width="35" height="35" />&nbsp;
-    <img src="./assets/tools/tailwind.png" alt="tailwind" width="35" height="35" />&nbsp;
-    <img src="./assets/tools/sass.svg" alt="sass" width="35" height="35" />&nbsp;
-    <img src="./assets/tools/storybook.png" alt="storybook" width="35" height="35" />&nbsp;
-    <img src="./assets/tools/chromatic.png" alt="chromatic" width="35" height="35" />&nbsp;
-    <img src="./assets/tools/playwright.svg" alt="playwright" width="35" height="35" />&nbsp;
+    <img src="./assets/tools/react.svg" alt="react" width="30" height="30"/>&nbsp;
+    <img src="./assets/tools/next.svg" alt='next' width="30" height="30" />&nbsp;
+    <img src="./assets/tools/redux.svg" alt="redux" width="30" height="30" />&nbsp;
+    <img src="./assets/tools/tailwind.png" alt="tailwind" width="30" height="30" />&nbsp;
+    <img src="./assets/tools/sass.svg" alt="sass" width="30" height="30" />&nbsp;
+    <img src="./assets/tools/storybook.png" alt="storybook" width="30" height="30" />&nbsp;
+    <img src="./assets/tools/chromatic.png" alt="chromatic" width="30" height="30" />&nbsp;
+    <img src="./assets/tools/playwright.svg" alt="playwright" width="30" height="30" />&nbsp;
     </p>
 <p align="right">
-  <img src="./assets/tools/firebase.svg" alt="firebase" width="35" height="35" />&nbsp;
-  <img src="./assets/tools/node.svg" alt="nodejs" width="35" height="35" />&nbsp;
-  <img src="./assets/tools/express.svg" alt="express" width="35" height="35" />&nbsp;
-  <img src="./assets/tools/postgresql.svg" alt="postgresql" width="35" height="35" />&nbsp;
-  <img src="./assets/tools/graphql.png" alt='graphql' width="35" height="35" />&nbsp;
-  <img src="./assets/tools/azure.svg" alt="azure" width="35" height="35" />&nbsp;
-  <img src="./assets/tools/vite.png" alt="vite" width="35" height="35" />&nbsp;
-  <img src="./assets/tools/docker.png" alt="docker" width="35" height="35" />&nbsp;
+  <img src="./assets/tools/firebase.svg" alt="firebase" width="30" height="30" />&nbsp;
+  <img src="./assets/tools/node.svg" alt="nodejs" width="30" height="30" />&nbsp;
+  <img src="./assets/tools/express.svg" alt="express" width="30" height="30" />&nbsp;
+  <img src="./assets/tools/postgresql.svg" alt="postgresql" width="30" height="30" />&nbsp;
+  <img src="./assets/tools/graphql.png" alt='graphql' width="30" height="30" />&nbsp;
+  <img src="./assets/tools/azure.svg" alt="azure" width="30" height="30" />&nbsp;
+  <img src="./assets/tools/vite.png" alt="vite" width="30" height="30" />&nbsp;
+  <img src="./assets/tools/docker.png" alt="docker" width="30" height="30" />&nbsp;
    </p>
 
 ### ⚙️ GitHub Analytics
