@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
- <img src="https://github.com/ksalpern/ksalpern/blob/34e5b7e3bb685a99cfd67d4371016d5b36835777/assets/arrow-down.webp" alt="arrow down" width="40"/>&nbsp; ${\color{#70a5fd}\textsf{Let's connect:}}$
+ <img src="https://github.com/ksalpern/ksalpern/blob/2f37e1b3f9716a1bb3a3776a1e568a0d8a1a07c8/assets/arrow.webp" alt="arrow down" width="40"/>&nbsp; ${\color{#70a5fd}\textsf{Let's connect:}}$
 </p>
 
 <p align="left">
@@ -97,6 +97,6 @@
 <br>
 
 <p align="center">
-<img src="https://github.com/ksalpern/ksalpern/blob/34e5b7e3bb685a99cfd67d4371016d5b36835777/assets/sparkles.gif" width="30px" alt="sparkles">&nbsp; ${\color{#70a5fd}\textsf{May the Force be with you}}$<img src="https://github.com/ksalpern/ksalpern/blob/34e5b7e3bb685a99cfd67d4371016d5b36835777/assets/sparkles.gif" width="30px" alt="sparkles"> 
+<img src="https://github.com/ksalpern/ksalpern/blob/2f37e1b3f9716a1bb3a3776a1e568a0d8a1a07c8/assets/sparkle.gif" width="40px" alt="sparkles">&nbsp; ${\color{#70a5fd}\textsf{May the Force be with you}}$<img src="https://github.com/ksalpern/ksalpern/blob/2f37e1b3f9716a1bb3a3776a1e568a0d8a1a07c8/assets/sparkle.gif" width="40px" alt="sparkles"> 
 </p>
 <!--
