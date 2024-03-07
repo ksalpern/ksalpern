@@ -34,25 +34,58 @@
 <img src="./assets/yoda.webp" alt="baby yoda" align="left" style='width:25%;height:fit-content;'>
 
 <p align="right">
-    <img src="./assets/tools/react.svg" alt="react" width="28" height="28"/>&nbsp;
-    <img src="./assets/tools/next.svg" alt='next' width="28" height="28" />&nbsp;
-    <img src="./assets/tools/redux.svg" alt="redux" width="28" height="28" />&nbsp;
-    <img src="./assets/tools/tailwind.png" alt="tailwind" width="28" height="28" />&nbsp;
-    <img src="./assets/tools/sass.svg" alt="sass" width="28" height="28" />&nbsp;
-    <img src="./assets/tools/storybook.png" alt="storybook" width="28" height="28" />&nbsp;
-    <img src="./assets/tools/chromatic.png" alt="chromatic" width="28" height="28" />&nbsp;
-    <img src="./assets/tools/playwright.svg" alt="playwright" width="28" height="28" />&nbsp;
-    </p>
+    <a href='https://react.dev/' title='React'>
+        <img src="./assets/tools/react.svg" alt="react" width="28" height="28"/>&nbsp;
+    </a>
+    <a href='https://nextjs.org/' title='Next'>
+        <img src="./assets/tools/next.svg" alt='next' width="28" height="28" />&nbsp;
+    </a>
+    <a href='https://redux.js.org/' title='Redux'>
+        <img src="./assets/tools/redux.svg" alt="redux" width="28" height="28" />&nbsp;
+    </a>
+    <a href='https://tailwindcss.com/' title='Tailwind'>
+        <img src="./assets/tools/tailwind.png" alt="tailwind" width="28" height="28" />&nbsp;
+    </a>
+    <a href='https://sass-lang.com/' title='Sass'>
+        <img src="./assets/tools/sass.svg" alt="sass" width="28" height="28" />&nbsp;
+    </a>
+    <a href='https://storybook.js.org/' title='Storybook'>
+        <img src="./assets/tools/storybook.png" alt="storybook" width="28" height="28" />&nbsp;
+    </a>
+    <a href='https://www.chromatic.com/' title='Chromatic'>
+        <img src="./assets/tools/chromatic.png" alt="chromatic" width="28" height="28" />&nbsp;
+    </a>
+    <a href='https://playwright.dev/' title='Playwright'>
+        <img src="./assets/tools/playwright.svg" alt="playwright" width="28" height="28" />&nbsp;
+    </a>
+</p>
+
 <p align="right">
-  <img src="./assets/tools/firebase.svg" alt="firebase" width="28" height="28" />&nbsp;
-  <img src="./assets/tools/node.svg" alt="nodejs" width="28" height="28" />&nbsp;
-  <img src="./assets/tools/express.svg" alt="express" width="28" height="28" />&nbsp;
-  <img src="./assets/tools/postgresql.svg" alt="postgresql" width="28" height="28" />&nbsp;
-  <img src="./assets/tools/graphql.png" alt='graphql' width="28" height="28" />&nbsp;
-  <img src="./assets/tools/azure.svg" alt="azure" width="28" height="28" />&nbsp;
-  <img src="./assets/tools/vite.png" alt="vite" width="28" height="28" />&nbsp;
-  <img src="./assets/tools/docker.png" alt="docker" width="28" height="28" />&nbsp;
-   </p>
+    <a href='https://firebase.google.com/' title='firebase'>
+    <img src="./assets/tools/firebase.svg" alt="firebase" width="28" height="28" />&nbsp;
+    </a>
+    <a href='https://nodejs.org/en' title='nodejs'>
+    <img src="./assets/tools/node.svg" alt="nodejs" width="28" height="28" />&nbsp;
+    </a>
+    <a href='https://expressjs.com/' title='express'>
+    <img src="./assets/tools/express.svg" alt="express" width="28" height="28" />&nbsp;
+    </a>
+    <a href='https://www.postgresql.org/' title='postgresql'>
+    <img src="./assets/tools/postgresql.svg" alt="postgresql" width="28" height="28" />&nbsp;
+    </a>
+    <a href='https://graphql.org/' title='graphql'>
+    <img src="./assets/tools/graphql.png" alt='graphql' width="28" height="28" />&nbsp;
+    </a>
+    <a href='https://azure.microsoft.com/en-us/' title='azure'>
+    <img src="./assets/tools/azure.svg" alt="azure" width="28" height="28" />&nbsp;
+    </a>
+    <a href='https://vitejs.dev/' title='vite'>
+    <img src="./assets/tools/vite.png" alt="vite" width="28" height="28" />&nbsp;
+    </a>
+    <a href='https://www.docker.com/' title='docker'>
+    <img src="./assets/tools/docker.png" alt="docker" width="28" height="28" />&nbsp;
+    </a>
+</p>
 
 <br>
 <br>
@@ -64,6 +97,6 @@
 <br>
 
 <p align="center">
-<img src="https://github.com/ksalpern/ksalpern/blob/34e5b7e3bb685a99cfd67d4371016d5b36835777/assets/sparkles.gif" width="30px" alt="sparkles">&nbsp; ${\color{LightBlue}\textsf{May the Force be with you}}$<img src="https://github.com/ksalpern/ksalpern/blob/34e5b7e3bb685a99cfd67d4371016d5b36835777/assets/sparkles.gif" width="30px" alt="sparkles"> 
+<img src="https://github.com/ksalpern/ksalpern/blob/34e5b7e3bb685a99cfd67d4371016d5b36835777/assets/sparkles.gif" width="30px" alt="sparkles">&nbsp; ${\color{#70a5fd}\textsf{May the Force be with you}}$<img src="https://github.com/ksalpern/ksalpern/blob/34e5b7e3bb685a99cfd67d4371016d5b36835777/assets/sparkles.gif" width="30px" alt="sparkles"> 
 </p>
 <!--
