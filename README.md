@@ -28,32 +28,34 @@
 &nbsp; ${\color{#70a5fd}\textsf{Here're some thing I've been working with lately:}}$
 </p>
 
-<img src="./assets/yoda.webp" alt="baby yoda" align="left" style='width:32%;height:fit-content;'>
+<img src="./assets/yoda.webp" alt="baby yoda" align="left" style='width:25%;height:fit-content;'>
 
 <p align="right">
-    <img src="./assets/tools/react.svg" alt="react" width="30" height="30"/>&nbsp;
-    <img src="./assets/tools/next.svg" alt='next' width="30" height="30" />&nbsp;
-    <img src="./assets/tools/redux.svg" alt="redux" width="30" height="30" />&nbsp;
-    <img src="./assets/tools/tailwind.png" alt="tailwind" width="30" height="30" />&nbsp;
-    <img src="./assets/tools/sass.svg" alt="sass" width="30" height="30" />&nbsp;
-    <img src="./assets/tools/storybook.png" alt="storybook" width="30" height="30" />&nbsp;
-    <img src="./assets/tools/chromatic.png" alt="chromatic" width="30" height="30" />&nbsp;
-    <img src="./assets/tools/playwright.svg" alt="playwright" width="30" height="30" />&nbsp;
+    <img src="./assets/tools/react.svg" alt="react" width="28" height="28"/>&nbsp;
+    <img src="./assets/tools/next.svg" alt='next' width="28" height="28" />&nbsp;
+    <img src="./assets/tools/redux.svg" alt="redux" width="28" height="28" />&nbsp;
+    <img src="./assets/tools/tailwind.png" alt="tailwind" width="28" height="28" />&nbsp;
+    <img src="./assets/tools/sass.svg" alt="sass" width="28" height="28" />&nbsp;
+    <img src="./assets/tools/storybook.png" alt="storybook" width="28" height="28" />&nbsp;
+    <img src="./assets/tools/chromatic.png" alt="chromatic" width="28" height="28" />&nbsp;
+    <img src="./assets/tools/playwright.svg" alt="playwright" width="28" height="28" />&nbsp;
     </p>
 <p align="right">
-  <img src="./assets/tools/firebase.svg" alt="firebase" width="30" height="30" />&nbsp;
-  <img src="./assets/tools/node.svg" alt="nodejs" width="30" height="30" />&nbsp;
-  <img src="./assets/tools/express.svg" alt="express" width="30" height="30" />&nbsp;
-  <img src="./assets/tools/postgresql.svg" alt="postgresql" width="30" height="30" />&nbsp;
-  <img src="./assets/tools/graphql.png" alt='graphql' width="30" height="30" />&nbsp;
-  <img src="./assets/tools/azure.svg" alt="azure" width="30" height="30" />&nbsp;
-  <img src="./assets/tools/vite.png" alt="vite" width="30" height="30" />&nbsp;
-  <img src="./assets/tools/docker.png" alt="docker" width="30" height="30" />&nbsp;
+  <img src="./assets/tools/firebase.svg" alt="firebase" width="28" height="28" />&nbsp;
+  <img src="./assets/tools/node.svg" alt="nodejs" width="28" height="28" />&nbsp;
+  <img src="./assets/tools/express.svg" alt="express" width="28" height="28" />&nbsp;
+  <img src="./assets/tools/postgresql.svg" alt="postgresql" width="28" height="28" />&nbsp;
+  <img src="./assets/tools/graphql.png" alt='graphql' width="28" height="28" />&nbsp;
+  <img src="./assets/tools/azure.svg" alt="azure" width="28" height="28" />&nbsp;
+  <img src="./assets/tools/vite.png" alt="vite" width="28" height="28" />&nbsp;
+  <img src="./assets/tools/docker.png" alt="docker" width="28" height="28" />&nbsp;
    </p>
 
 ### ⚙️ GitHub Analytics
 
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ksalpern&hide_border=true&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Xenia GitHub Readme Streak Stats" />
+
+<br>
 
 <p align="center">
 <img src="https://github.com/ksalpern/ideas/blob/21d0ebf4bcf0ea0712a510dca3d9e009a74c44e5/assets/sparkles.gif" width="30px" alt="sparkles">&nbsp; ${\color{LightBlue}\textsf{May the Force be with you}}$<img src="https://github.com/ksalpern/ideas/blob/21d0ebf4bcf0ea0712a510dca3d9e009a74c44e5/assets/sparkles.gif" width="30px" alt="sparkles"> 
