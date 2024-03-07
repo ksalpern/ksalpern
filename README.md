@@ -57,7 +57,7 @@
 <br>
 <br>
 
-### 📊 GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ksalpern&hide_border=true&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Xenia GitHub Readme Streak Stats" />
 
