@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
- <img src="https://github.com/ksalpern/ksalpern/blob/2f37e1b3f9716a1bb3a3776a1e568a0d8a1a07c8/assets/arrow.webp" alt="arrow down" width="40"/>&nbsp; ${\color{#70a5fd}\textsf{Let's connect:}}$
+ <img src="https://github.com/ksalpern/ksalpern/blob/e088ff2fd23b42c4e41d96cf11dcbe946d563a6f/assets/arrow.webp" alt="arrow down" width="40"/>&nbsp; ${\color{#70a5fd}\textsf{Let's connect:}}$
 </p>
 
 <p align="left">
