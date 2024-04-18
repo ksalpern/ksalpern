@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70px" alt="typing cat"> Hey, I'm Xenia 👋 </h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a laptop" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://github.com/ksalpern/ksalpern/blob/7288c6838663ae27e00ebb023efa3ec71a3107d6/assets/computer-illustration.png" alt="illustration of a laptop" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left">
  I'm a Frontend Developer from Ukraine 🇺🇦  
