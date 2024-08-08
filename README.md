@@ -18,9 +18,9 @@
 <p align="left">
   <a href="mailto:ksenia.pidopryhora@gmail.com" title="Gmail">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112705866/280768534-7f0d7491-3085-44a6-80b0-2939a24f9f21.svg" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/kseniia-pidopryhora-44a579236/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/kseniia-pidopryhora/" title="LinkedIn">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112705866/280771412-ca23c019-65c5-4133-9759-280da6af9ba2.svg" alt="LinkedIn"/></a>
-  <a href="https://t.me/ksalpern" title="Telegram">
+  <a href="https://t.me/ksDevSpace" title="Telegram">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112705866/280768542-d8167889-3a41-4507-86d0-6db8342c7ce7.svg" alt="Telegram"/></a>
 </p>
 
