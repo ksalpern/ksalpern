@@ -7,12 +7,12 @@
 </p>
 
 <p align="left"> 
- With the wisdom of&nbsp; ${\color{#70a5fd}\textsf{Yoda}}$ and the determination of a&nbsp; ${\color{#70a5fd}\textsf{Jedi}}$,<br>
+ With the wisdom of ***Yoda*** and the determination of a ***Jedi***,<br>
   I tackle the challenges of the frontend universe ✨
 </p>
 
 <p align="left">
- <img src="https://github.com/ksalpern/ksalpern/blob/e088ff2fd23b42c4e41d96cf11dcbe946d563a6f/assets/arrow.webp" alt="arrow down" width="40"/>&nbsp; ${\color{#70a5fd}\textsf{Let's connect:}}$
+ <img src="https://github.com/ksalpern/ksalpern/blob/e088ff2fd23b42c4e41d96cf11dcbe946d563a6f/assets/arrow.webp" alt="arrow down" width="40"/> ***Let's connect***
 </p>
 
 <p align="left">
@@ -28,7 +28,7 @@
 <br>
 
 <p align="center">
-&nbsp; ${\color{#70a5fd}\textsf{Here're some thing I've been working with lately:}}$
+***Here're some thing I've been working with lately***
 </p>
 
 <img src="./assets/yoda.webp" alt="baby yoda" align="left" style='width:25%;height:fit-content;'>
