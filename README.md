@@ -3,7 +3,7 @@
 <img src="https://github.com/ksalpern/ksalpern/blob/7288c6838663ae27e00ebb023efa3ec71a3107d6/assets/computer-illustration.png" alt="illustration of a laptop" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left">
- I'm a Frontend Developer from Ukraine 🇺🇦  
+ I'm a Full-stack developer from Ukraine 🇺🇦  
 </p>
 
 <p align="left"> 
@@ -97,6 +97,6 @@ Here're some thing I've been working with lately
 <br>
 
 <p align="center">
-<img src="https://github.com/ksalpern/ksalpern/blob/2f37e1b3f9716a1bb3a3776a1e568a0d8a1a07c8/assets/sparkle.gif" width="40px" alt="sparkles">&nbsp; ${\color{#70a5fd}\textsf{May the Force be with you}}$<img src="https://github.com/ksalpern/ksalpern/blob/2f37e1b3f9716a1bb3a3776a1e568a0d8a1a07c8/assets/sparkle.gif" width="40px" alt="sparkles"> 
+<img src="https://github.com/ksalpern/ksalpern/blob/2f37e1b3f9716a1bb3a3776a1e568a0d8a1a07c8/assets/sparkle.gif" width="40px" alt="sparkles">&nbsp; May the Force be with you <img src="https://github.com/ksalpern/ksalpern/blob/2f37e1b3f9716a1bb3a3776a1e568a0d8a1a07c8/assets/sparkle.gif" width="40px" alt="sparkles"> 
 </p>
 <!--
