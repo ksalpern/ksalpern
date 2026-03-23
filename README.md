@@ -1,9 +1,9 @@
 <img src="./assets/banner.jpg" alt="" width="100%" />
 
-<h1 align="center">Hey, I'm Kseniia 👋</h1>
+<h1 align="center">Hey, I'm Kseniia ✦</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=EC4899&center=true&vCenter=true&width=435&lines=three.js+%C2%B7+r3f+%C2%B7+blender;vue+%C2%B7+react+%C2%B7+typescript;building+interfaces+that+live+in+3D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=EC4899&center=true&vCenter=true&width=435&lines=three.js+%C2%B7+r3f+%C2%B7+blender;vue+%C2%B7+react+%C2%B7+typescript" alt="Typing SVG" />
 </p>
 
 <br />
