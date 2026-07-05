@@ -25,8 +25,6 @@
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/kseniia-pidopryhora/">linkedin</a>
   &nbsp;·&nbsp;
-  <a href="https://t.me/ksDevSpace">telegram</a>
-  &nbsp;·&nbsp;
   <a href="mailto:ksenia.pidopryhora@gmail.com">email</a>
 </p>
 
